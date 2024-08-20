@@ -1,0 +1,22 @@
+/* components/CookieAlert.module.css */
+.cookieAlert {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+}
+
+.cookieAlert button {
+    background: #fff;
+    color: #333;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
