@@ -80,7 +80,7 @@ Access the website at <http://localhost:3000>
 
 ### Homepage
 
-![Homepage](homepage.png)
+![Homepage](Homepage.png)
 
 ### Homepage 2
 
